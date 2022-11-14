@@ -1,0 +1,9 @@
+::selection {
+	background: orange;
+	color: black;
+}
+
+.custom-text-selection::selection {
+	background: green;
+	color: white;
+}
